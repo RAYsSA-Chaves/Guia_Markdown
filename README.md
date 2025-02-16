@@ -1,2 +1,2 @@
-# Guia_Markdown
- Compartilhando um guia da linguagem Markdown
+# Guia de Markdown
+ Compartilhando um guia da linguagem Markdown.
